@@ -12,5 +12,4 @@ namespace OS_Lab_FinalProject_FCFS
         public string FullName { get; set; }
         public int BurstTime { get; set; }
     }
-
 }
